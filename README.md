@@ -3,7 +3,7 @@ Task: Emotion_classification
 Emotion Classification using Machine learning/statistical method:
 
 1.i have imported all the libraries and spacy library 
-2. LOading the all four emotions dataset
+2. Loading the all four emotions dataset
 3. preprocess all the data
 4. then I have used wordcloud to see frequent words
 5. after pre-processing of all the text I have used tfidf vectorizer to convert all the text into vectors based on the term frequency.
@@ -22,7 +22,7 @@ Emotion Classification using Machine learning/statistical method:
 Emotion Classification using deep learning model:
 
 1.importing dependencies
-2.LOading the all four emotions dataset
+2.Loading the all four emotions dataset
 3. preprocess all the data
 4. then I have used wordcloud to see frequent words
 5. after pre-processing of all the text I have used tfidf vectorizer to convert all the text into vectors based on the term frequency.
